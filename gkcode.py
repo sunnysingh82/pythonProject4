@@ -103,7 +103,7 @@ if __name__ == "__main__":
         if Quantity_Sold == None:
             return "Qty Sold Missing"
         if Vendor_ID == None:
-            return "Vendor ID Missin"
+            return "Vendor ID Missing bro"
 
 
 
